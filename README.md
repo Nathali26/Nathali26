@@ -1,4 +1,4 @@
-👋🏻 Hi there, it's Nathalia here—so nice to have you visit!
+👋🏻 Hi there, it's Nathalia here - so nice to have you visit!
 
 👩🏻‍💼 I'm a passionate Junior Full Stack Developer with a strong foundation from CodeOp, where I recently graduated. My journey into the world of software development began with a deep interest in crafting applications that are not only functional but also visually appealing and user-friendly.
 
